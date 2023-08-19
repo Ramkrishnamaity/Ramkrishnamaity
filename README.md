@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramkrishna Maity</h1>
-<h3 align="center">A pre-final year student || frontend developer || Programmer from India</h3>
+<h3 align="center">A final year student || full stack web developer || Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishnamaity&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishnamaity" /> </p>
 

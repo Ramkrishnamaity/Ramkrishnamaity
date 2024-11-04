@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ramkrishna Maity</h1>
-<h3 align="center">Full Stack Developer from India</h3>
- 
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
+
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 - 🔭 I’m currently working on **NodeJs, ReactJS, NextJs.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Ramkrishnamaity)
@@ -10,6 +14,14 @@
 - 📫 How to reach me **ramkrishnamaity4146@gmail.com**
 
 - 📄 Know about my experiences on my [portfolio](https://ramkrishna-portfolio-project.netlify.app/)
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+	<a href="https://linkedin.com/in/ramkrishna-maity"><img src="https://img.shields.io/badge/Ramkrishna-Maity-22372b153?style=flat&logo=Linkedin&logoColor=white" alt="Ramkrishna Maity"/></a>
+	<a href="mailto:ramkrishnamaity4146@gmail.com"><img src="https://img.shields.io/badge/-ramkrishnamaity4146@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Ramkrishna Maity"/></a>
+	<a href="https://twitter.com/_ramkrishna02"><img src="https://img.shields.io/badge/-@_ramkrishna02-1877F2?style=flat&logo=Twitter&logoColor=white" alt="Ramkrishna Maity"/></a>
+</p>
  
 ### 🛠 &nbsp;Languages and Tools
 
@@ -80,14 +92,6 @@
 	/>
 	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramkrishnamaity&layout=compact&langs_count=8&theme=algolia" alt="Ramkrishna Maity"/>
 	</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p>
-	<a href="https://linkedin.com/in/ramkrishna-maity"><img src="https://img.shields.io/badge/Ramkrishna-Maity-22372b153?style=flat&logo=Linkedin&logoColor=white" alt="Ramkrishna Maity"/></a>
-	<a href="mailto:ramkrishnamaity4146@gmail.com"><img src="https://img.shields.io/badge/-ramkrishnamaity4146@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Ramkrishna Maity"/></a>
-	<a href="https://twitter.com/_ramkrishna02"><img src="https://img.shields.io/badge/-@_ramkrishna02-1877F2?style=flat&logo=Twitter&logoColor=white" alt="Ramkrishna Maity"/></a>
 </p>
 
 <h2 align="left">🏆 Github trophies:</h2>

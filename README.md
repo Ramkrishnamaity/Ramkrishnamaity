@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ramkrishnamaity4146@gmail.com**
 
-- 📄 Know about my experiences on my [portfolio](https://ramkrishna-portfolio-project.netlify.app/)
+- 📄 Know about my experiences on [portfolio](https://ramkrishna-portfolio-project.netlify.app/)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
